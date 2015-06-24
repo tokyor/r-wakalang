@@ -20,7 +20,7 @@ Gitterを使った[チャットルーム](https://gitter.im/TokyoR/r-wakalang)�
 
 Slackの評判が良さそうなのでそちらにも[チャットルーム](https://r-wakalang.slack.com)を作りました！下のボタンをクリックしてメールアドレスを登録すると投稿などができます。
 
-<img src="https://r-wakalang.herokuapp.com/badge.svg">
+<a href="https://r-wakalang.herokuapp.com"><img src="https://r-wakalang.herokuapp.com/badge.svg"></a>
 
 ### 参考
 
