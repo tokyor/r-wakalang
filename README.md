@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/TokyoR/r-wakalang](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TokyoR/r-wakalang?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/TokyoR/r-wakalang](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TokyoR/r-wakalang?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Rのわからないことへの質問を日本語でする場所
 「こういうのが欲しい」という雑な妄想や夢でもいいかも。
 そうすると匿名知的集団ホクソエムが開発してくれるかも・・・？
