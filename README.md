@@ -14,7 +14,7 @@ Rのわからないことへの質問を日本語でする場所
 - 得られた成果をtips.md(まだない)等に書く
 
 ### もっとラフな雑談がしたい！
-Gitterを使った[チャットルーム](https://gitter.im/JuliaTokyo/r-wakalang)があります！
+Gitterを使った[チャットルーム](https://gitter.im/TokyoR/r-wakalang)があります！
 
 ### 参考
 
