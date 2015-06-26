@@ -1,8 +1,6 @@
 # r-wakalang
 
-[![Join the chat at https://gitter.im/TokyoR/r-wakalang](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TokyoR/r-wakalang?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Join the chat at https://gitter.im/TokyoR/r-wakalang](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TokyoR/r-wakalang?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<script src="http://r-wakalang.herokuapp.com/slackin.js" async defer></script>
 
 Rのわからないことへの質問を日本語でする場所
 「こういうのが欲しい」という雑な妄想や夢でもいいかも。
