@@ -17,6 +17,8 @@ Rのわからないことへの質問を日本語でする場所
 [Slackのチャットルーム](https://r-wakalang.slack.com)を作りました！
 下のボタンをクリックしてメールアドレスを登録すると投稿などができます。
 
+> :warning:注意: 登録したメールアドレスはチームメンバーであれば閲覧できてしまいます。支障のないメールアドレスでの登録を推奨します:construction:
+
 <a href="https://r-wakalang.herokuapp.com"><img src="https://r-wakalang.herokuapp.com/badge.svg"></a>
 
 ### 参考
