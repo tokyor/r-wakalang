@@ -19,6 +19,12 @@ Rのわからないことへの質問を日本語でする場所
 
 > :warning:注意: 登録したメールアドレスはチームメンバーであれば閲覧できてしまいます。支障のないメールアドレスでの登録を推奨します:construction:
 
+## 登録方法
+- 以下のリンクをクリックします
+- 遷移先のサイトに登録したいメールアドレスを登録します
+- 登録したメールに招待メールが来ているので、それをクリック！！
+- Welcome!!!
+
 <a href="https://r-wakalang.herokuapp.com"><img src="https://r-wakalang.herokuapp.com/badge.svg"></a>
 
 ### 参考
