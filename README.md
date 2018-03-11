@@ -1,13 +1,12 @@
 # r-wakalang
 
-<a href="https://r-wakalang.herokuapp.com"><img src="https://r-wakalang.herokuapp.com/badge.svg"></a>
+[🍣参加🍣](https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMzU2MTFhZDlkN2JjNWE5ZjVjODVjZWI5NGI0NGZjY2MzY2E1YTczOWU3YmM0MDY4NzE1NThiNjFjMTIzY2Y)
 
-Rのわからないことを質問したり雑談したりするSlackです。↑のボタンから誰でも参加できます。
+Rのわからないことを質問したり雑談したりするSlackです。↑のリンクから誰でも参加できます。
 
 ## 登録方法
-- <a href="https://r-wakalang.herokuapp.com"><img src="https://r-wakalang.herokuapp.com/badge.svg"></a>をクリックします
-- 遷移先のサイトに登録したいメールアドレスを登録します
-- 登録したメールに招待メールが来ているので、それをクリック！！
+- [🍣参加🍣](https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMzU2MTFhZDlkN2JjNWE5ZjVjODVjZWI5NGI0NGZjY2MzY2E1YTczOWU3YmM0MDY4NzE1NThiNjFjMTIzY2Y)をクリックします
+- 登録したいメールアドレスを入力
 - Welcome!!!
 
 ## 主なチャンネル
