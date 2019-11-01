@@ -1,11 +1,11 @@
 # r-wakalang
 
-[🍣参加🍣](https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMzU2MTFhZDlkN2JjNWE5ZjVjODVjZWI5NGI0NGZjY2MzY2E1YTczOWU3YmM0MDY4NzE1NThiNjFjMTIzY2Y)
+[🍣参加🍣](https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMDMxYjJkZmY3NDhmOWFlNGJmNTgyY2FiMzRjZmQxMzFiM2E3YzAwZGYzZDY4MGZiYTQ2YzMzOWRlMWRjMWY)
 
 Rのわからないことを質問したり雑談したりするSlackです。↑のリンクから誰でも参加できます。
 
 ## 登録方法
-- [🍣参加🍣](https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMzU2MTFhZDlkN2JjNWE5ZjVjODVjZWI5NGI0NGZjY2MzY2E1YTczOWU3YmM0MDY4NzE1NThiNjFjMTIzY2Y)をクリックします
+- [🍣参加🍣](https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMDMxYjJkZmY3NDhmOWFlNGJmNTgyY2FiMzRjZmQxMzFiM2E3YzAwZGYzZDY4MGZiYTQ2YzMzOWRlMWRjMWY)をクリックします
 - 登録したいメールアドレスを入力
 - Welcome!!!
 
